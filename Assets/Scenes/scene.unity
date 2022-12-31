@@ -264,7 +264,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 495709108}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -189.37, y: -264.78, z: 0}
+  m_LocalPosition: {x: -189.66, y: -265.57, z: 0}
   m_LocalScale: {x: 1.3892618, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 2094430594}
@@ -846,7 +846,7 @@ GameObject:
   - component: {fileID: 1981846025}
   - component: {fileID: 1981846026}
   m_Layer: 0
-  m_Name: back rim
+  m_Name: mask
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -860,8 +860,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1981846024}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.537796, y: 2.0801697, z: 0}
-  m_LocalScale: {x: 20.863817, y: 0.7362826, z: 1}
+  m_LocalPosition: {x: -0.258, y: -0.387, z: 0}
+  m_LocalScale: {x: 26.269934, y: 24.522049, z: 1}
   m_Children: []
   m_Father: {fileID: 588034374}
   m_RootOrder: 0
