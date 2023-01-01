@@ -35,6 +35,7 @@ TextureImporter:
     21300060: ATLAS_31
     21300062: ATLAS_32
     21300064: ATLAS_14
+    21300066: ATLAS_33
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -381,9 +382,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 767
-        y: 833
-        width: 179
-        height: 109
+        y: 865
+        width: 180
+        height: 77
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -772,6 +773,26 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1c5e0ebbd2446b44a9406c12278ff860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATLAS_33
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 832
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b875007b2f6cbe646987a49c9e9cf187
       vertices: []
       indices: 
       edges: []
