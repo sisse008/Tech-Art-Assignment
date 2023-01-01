@@ -10,4 +10,4 @@ Then, import the unity package “Assignment.unitypackage” which is in the Pac
 
 OR:
 
-download reposetory and open scene "PopupSceneATLAS"
+download repository and open scene "PopupSceneATLAS"
